@@ -1,4 +1,4 @@
-﻿#define _CRT_SECURE_NO_WARNINGS
+﻿#define _CRT_SECURE_NO_WARNINGS ádasd
 #include "mylib.h"
 /// /////////////////////////////////////////////////////
 FILE* f; FILE* d;
